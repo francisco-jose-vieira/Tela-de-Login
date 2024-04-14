@@ -9,9 +9,8 @@
     height: 100vh;
     display: flex;
     flex-direction: row;
-    background-image: url(blur2.png);
+    background-image: url(background.png);
     background-repeat: no-repeat;
-    border: 1px dashed black;
 }
 
 #left {
